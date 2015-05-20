@@ -1,0 +1,7 @@
+<suite name="s1">
+<test name="t1">
+<classes>
+ <class name="p1.Test_prog"/>
+</classes>
+</test>
+</suite>
